@@ -127,8 +127,6 @@ console.log(calcularArea(3));
 console.log(suma(3)); 
 console.log(fibonacci(6)); 
 console.log(factorial(5));
-console.log(potencia(2, 3)); 
-
 // Exportar las funciones para que puedan ser probadas
 module.exports = {
     despedir,
